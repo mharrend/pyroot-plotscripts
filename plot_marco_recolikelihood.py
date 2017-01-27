@@ -159,7 +159,7 @@ plots=[
     Plot(ROOT.TH1F("Reco_highest_TTLikelihood_combs4j3t","Reco_highest_TTLikelihood_comb s4j3t",10,-1,1),"Reco_highest_TTLikelihood_comb",s4j3t),
 
 # s4j3tbb0 selection
-    Plot(ROOT.TH1F("N_Jets" ,"Number of jets s4j3tbb0",13,-0.5,12.5),"N_Jets",s4j3tbb0),
+    Plot(ROOT.TH1F("N_Jetss4j3tbb0" ,"Number of jets s4j3tbb0",13,-0.5,12.5),"N_Jets",s4j3tbb0),
     Plot(ROOT.TH1F("N_BTagsMs4j3tbb0" ,"Number of medium b-tags s4j3tbb0",9,-0.5,8.5),"N_BTagsM",s4j3tbb0),
 
     Plot(ROOT.TH1F("N_TotalTagss4j3tbb0" ,"Number of total tags s4j3tbb0",9,-0.5,8.5),"N_TotalTags",s4j3tbb0),
@@ -214,7 +214,7 @@ plots=[
     Plot(ROOT.TH1F("Reco_highest_TTLikelihood_combs4j3tbb0","Reco_highest_TTLikelihood_comb s4j3tbb0",10,-1,1),"Reco_highest_TTLikelihood_comb",s4j3tbb0),
 
 # s4j3tbb1 selection
-    Plot(ROOT.TH1F("N_Jets" ,"Number of jets s4j3tbb1",13,-0.5,12.5),"N_Jets",s4j3tbb1),
+    Plot(ROOT.TH1F("N_Jetss4j3tbb1" ,"Number of jets s4j3tbb1",13,-0.5,12.5),"N_Jets",s4j3tbb1),
     Plot(ROOT.TH1F("N_BTagsMs4j3tbb1" ,"Number of medium b-tags s4j3tbb1",9,-0.5,8.5),"N_BTagsM",s4j3tbb1),
 
     Plot(ROOT.TH1F("N_TotalTagss4j3tbb1" ,"Number of total tags s4j3tbb1",9,-0.5,8.5),"N_TotalTags",s4j3tbb1),
@@ -269,7 +269,7 @@ plots=[
     Plot(ROOT.TH1F("Reco_highest_TTLikelihood_combs4j3tbb1","Reco_highest_TTLikelihood_comb s4j3tbb1",10,-1,1),"Reco_highest_TTLikelihood_comb",s4j3tbb1),
 
 # s4j3tbb2 selection
-    Plot(ROOT.TH1F("N_Jets" ,"Number of jets s4j3tbb2",13,-0.5,12.5),"N_Jets",s4j3tbb2),
+    Plot(ROOT.TH1F("N_Jetss4j3tbb2" ,"Number of jets s4j3tbb2",13,-0.5,12.5),"N_Jets",s4j3tbb2),
     Plot(ROOT.TH1F("N_BTagsMs4j3tbb2" ,"Number of medium b-tags s4j3tbb2",9,-0.5,8.5),"N_BTagsM",s4j3tbb2),
 
     Plot(ROOT.TH1F("N_TotalTagss4j3tbb2" ,"Number of total tags s4j3tbb2",9,-0.5,8.5),"N_TotalTags",s4j3tbb2),
@@ -324,7 +324,7 @@ plots=[
     Plot(ROOT.TH1F("Reco_highest_TTLikelihood_combs4j3tbb2","Reco_highest_TTLikelihood_comb s4j3tbb2",10,-1,1),"Reco_highest_TTLikelihood_comb",s4j3tbb2),
 
 # s4j3tbb3 selection
-    Plot(ROOT.TH1F("N_Jets" ,"Number of jets s4j3tbb3",13,-0.5,12.5),"N_Jets",s4j3tbb3),
+    Plot(ROOT.TH1F("N_Jetss4j3tbb3" ,"Number of jets s4j3tbb3",13,-0.5,12.5),"N_Jets",s4j3tbb3),
     Plot(ROOT.TH1F("N_BTagsMs4j3tbb3" ,"Number of medium b-tags s4j3tbb3",9,-0.5,8.5),"N_BTagsM",s4j3tbb3),
 
     Plot(ROOT.TH1F("N_TotalTagss4j3tbb3" ,"Number of total tags s4j3tbb3",9,-0.5,8.5),"N_TotalTags",s4j3tbb3),
@@ -435,7 +435,7 @@ plots=[
     Plot(ROOT.TH1F("Reco_highest_TTLikelihood_combs4j4t","Reco_highest_TTLikelihood_comb s4j4t",10,-1,1),"Reco_highest_TTLikelihood_comb",s4j4t),
 
 # s4j4tbb0 selection
-    Plot(ROOT.TH1F("N_Jets" ,"Number of jets s4j4tbb0",13,-0.5,12.5),"N_Jets",s4j4tbb0),
+    Plot(ROOT.TH1F("N_Jetss4j4tbb0" ,"Number of jets s4j4tbb0",13,-0.5,12.5),"N_Jets",s4j4tbb0),
     Plot(ROOT.TH1F("N_BTagsMs4j4tbb0" ,"Number of medium b-tags s4j4tbb0",9,-0.5,8.5),"N_BTagsM",s4j4tbb0),
 
     Plot(ROOT.TH1F("N_TotalTagss4j4tbb0" ,"Number of total tags s4j4tbb0",9,-0.5,8.5),"N_TotalTags",s4j4tbb0),
@@ -490,7 +490,7 @@ plots=[
     Plot(ROOT.TH1F("Reco_highest_TTLikelihood_combs4j4tbb0","Reco_highest_TTLikelihood_comb s4j4tbb0",10,-1,1),"Reco_highest_TTLikelihood_comb",s4j4tbb0),
 
 # s4j4tbb1 selection
-    Plot(ROOT.TH1F("N_Jets" ,"Number of jets s4j4tbb1",13,-0.5,12.5),"N_Jets",s4j4tbb1),
+    Plot(ROOT.TH1F("N_Jetss4j4tbb1" ,"Number of jets s4j4tbb1",13,-0.5,12.5),"N_Jets",s4j4tbb1),
     Plot(ROOT.TH1F("N_BTagsMs4j4tbb1" ,"Number of medium b-tags s4j4tbb1",9,-0.5,8.5),"N_BTagsM",s4j4tbb1),
 
     Plot(ROOT.TH1F("N_TotalTagss4j4tbb1" ,"Number of total tags s4j4tbb1",9,-0.5,8.5),"N_TotalTags",s4j4tbb1),
@@ -545,7 +545,7 @@ plots=[
     Plot(ROOT.TH1F("Reco_highest_TTLikelihood_combs4j4tbb1","Reco_highest_TTLikelihood_comb s4j4tbb1",10,-1,1),"Reco_highest_TTLikelihood_comb",s4j4tbb1),
 
 # s4j4tbb2 selection
-    Plot(ROOT.TH1F("N_Jets" ,"Number of jets s4j4tbb2",13,-0.5,12.5),"N_Jets",s4j4tbb2),
+    Plot(ROOT.TH1F("N_Jetss4j4tbb2" ,"Number of jets s4j4tbb2",13,-0.5,12.5),"N_Jets",s4j4tbb2),
     Plot(ROOT.TH1F("N_BTagsMs4j4tbb2" ,"Number of medium b-tags s4j4tbb2",9,-0.5,8.5),"N_BTagsM",s4j4tbb2),
 
     Plot(ROOT.TH1F("N_TotalTagss4j4tbb2" ,"Number of total tags s4j4tbb2",9,-0.5,8.5),"N_TotalTags",s4j4tbb2),
@@ -600,7 +600,7 @@ plots=[
     Plot(ROOT.TH1F("Reco_highest_TTLikelihood_combs4j4tbb2","Reco_highest_TTLikelihood_comb s4j4tbb2",10,-1,1),"Reco_highest_TTLikelihood_comb",s4j4tbb2),
 
 # s4j4tbb3 selection
-    Plot(ROOT.TH1F("N_Jets" ,"Number of jets s4j4tbb3",13,-0.5,12.5),"N_Jets",s4j4tbb3),
+    Plot(ROOT.TH1F("N_Jetss4j4tbb3" ,"Number of jets s4j4tbb3",13,-0.5,12.5),"N_Jets",s4j4tbb3),
     Plot(ROOT.TH1F("N_BTagsMs4j4tbb3" ,"Number of medium b-tags s4j4tbb3",9,-0.5,8.5),"N_BTagsM",s4j4tbb3),
 
     Plot(ROOT.TH1F("N_TotalTagss4j4tbb3" ,"Number of total tags s4j4tbb3",9,-0.5,8.5),"N_TotalTags",s4j4tbb3),
@@ -711,7 +711,7 @@ plots=[
     Plot(ROOT.TH1F("Reco_highest_TTLikelihood_combs5j3t","Reco_highest_TTLikelihood_comb s5j3t",10,-1,1),"Reco_highest_TTLikelihood_comb",s5j3t),
 
 # s5j3tbb0 selection
-    Plot(ROOT.TH1F("N_Jets" ,"Number of jets s5j3tbb0",13,-0.5,12.5),"N_Jets",s5j3tbb0),
+    Plot(ROOT.TH1F("N_Jetss5j3tbb0" ,"Number of jets s5j3tbb0",13,-0.5,12.5),"N_Jets",s5j3tbb0),
     Plot(ROOT.TH1F("N_BTagsMs5j3tbb0" ,"Number of medium b-tags s5j3tbb0",9,-0.5,8.5),"N_BTagsM",s5j3tbb0),
 
     Plot(ROOT.TH1F("N_TotalTagss5j3tbb0" ,"Number of total tags s5j3tbb0",9,-0.5,8.5),"N_TotalTags",s5j3tbb0),
@@ -766,7 +766,7 @@ plots=[
     Plot(ROOT.TH1F("Reco_highest_TTLikelihood_combs5j3tbb0","Reco_highest_TTLikelihood_comb s5j3tbb0",10,-1,1),"Reco_highest_TTLikelihood_comb",s5j3tbb0),
 
 # s5j3tbb1 selection
-    Plot(ROOT.TH1F("N_Jets" ,"Number of jets s5j3tbb1",13,-0.5,12.5),"N_Jets",s5j3tbb1),
+    Plot(ROOT.TH1F("N_Jetss5j3tbb1" ,"Number of jets s5j3tbb1",13,-0.5,12.5),"N_Jets",s5j3tbb1),
     Plot(ROOT.TH1F("N_BTagsMs5j3tbb1" ,"Number of medium b-tags s5j3tbb1",9,-0.5,8.5),"N_BTagsM",s5j3tbb1),
 
     Plot(ROOT.TH1F("N_TotalTagss5j3tbb1" ,"Number of total tags s5j3tbb1",9,-0.5,8.5),"N_TotalTags",s5j3tbb1),
@@ -821,7 +821,7 @@ plots=[
     Plot(ROOT.TH1F("Reco_highest_TTLikelihood_combs5j3tbb1","Reco_highest_TTLikelihood_comb s5j3tbb1",10,-1,1),"Reco_highest_TTLikelihood_comb",s5j3tbb1),
 
 # s5j3tbb2 selection
-    Plot(ROOT.TH1F("N_Jets" ,"Number of jets s5j3tbb2",13,-0.5,12.5),"N_Jets",s5j3tbb2),
+    Plot(ROOT.TH1F("N_Jetss5j3tbb2" ,"Number of jets s5j3tbb2",13,-0.5,12.5),"N_Jets",s5j3tbb2),
     Plot(ROOT.TH1F("N_BTagsMs5j3tbb2" ,"Number of medium b-tags s5j3tbb2",9,-0.5,8.5),"N_BTagsM",s5j3tbb2),
 
     Plot(ROOT.TH1F("N_TotalTagss5j3tbb2" ,"Number of total tags s5j3tbb2",9,-0.5,8.5),"N_TotalTags",s5j3tbb2),
@@ -876,7 +876,7 @@ plots=[
     Plot(ROOT.TH1F("Reco_highest_TTLikelihood_combs5j3tbb2","Reco_highest_TTLikelihood_comb s5j3tbb2",10,-1,1),"Reco_highest_TTLikelihood_comb",s5j3tbb2),
 
 # s5j3tbb3 selection
-    Plot(ROOT.TH1F("N_Jets" ,"Number of jets s5j3tbb3",13,-0.5,12.5),"N_Jets",s5j3tbb3),
+    Plot(ROOT.TH1F("N_Jetss5j3tbb3" ,"Number of jets s5j3tbb3",13,-0.5,12.5),"N_Jets",s5j3tbb3),
     Plot(ROOT.TH1F("N_BTagsMs5j3tbb3" ,"Number of medium b-tags s5j3tbb3",9,-0.5,8.5),"N_BTagsM",s5j3tbb3),
 
     Plot(ROOT.TH1F("N_TotalTagss5j3tbb3" ,"Number of total tags s5j3tbb3",9,-0.5,8.5),"N_TotalTags",s5j3tbb3),
@@ -987,7 +987,7 @@ plots=[
     Plot(ROOT.TH1F("Reco_highest_TTLikelihood_combs5j4t","Reco_highest_TTLikelihood_comb s5j4t",10,-1,1),"Reco_highest_TTLikelihood_comb",s5j4t),
 
 # s5j4tbb0 selection
-    Plot(ROOT.TH1F("N_Jets" ,"Number of jets s5j4tbb0",13,-0.5,12.5),"N_Jets",s5j4tbb0),
+    Plot(ROOT.TH1F("N_Jetss5j4tbb0" ,"Number of jets s5j4tbb0",13,-0.5,12.5),"N_Jets",s5j4tbb0),
     Plot(ROOT.TH1F("N_BTagsMs5j4tbb0" ,"Number of medium b-tags s5j4tbb0",9,-0.5,8.5),"N_BTagsM",s5j4tbb0),
 
     Plot(ROOT.TH1F("N_TotalTagss5j4tbb0" ,"Number of total tags s5j4tbb0",9,-0.5,8.5),"N_TotalTags",s5j4tbb0),
@@ -1042,7 +1042,7 @@ plots=[
     Plot(ROOT.TH1F("Reco_highest_TTLikelihood_combs5j4tbb0","Reco_highest_TTLikelihood_comb s5j4tbb0",10,-1,1),"Reco_highest_TTLikelihood_comb",s5j4tbb0),
 
 # s5j4tbb1 selection
-    Plot(ROOT.TH1F("N_Jets" ,"Number of jets s5j4tbb1",13,-0.5,12.5),"N_Jets",s5j4tbb1),
+    Plot(ROOT.TH1F("N_Jetss5j4tbb1" ,"Number of jets s5j4tbb1",13,-0.5,12.5),"N_Jets",s5j4tbb1),
     Plot(ROOT.TH1F("N_BTagsMs5j4tbb1" ,"Number of medium b-tags s5j4tbb1",9,-0.5,8.5),"N_BTagsM",s5j4tbb1),
 
     Plot(ROOT.TH1F("N_TotalTagss5j4tbb1" ,"Number of total tags s5j4tbb1",9,-0.5,8.5),"N_TotalTags",s5j4tbb1),
@@ -1097,7 +1097,7 @@ plots=[
     Plot(ROOT.TH1F("Reco_highest_TTLikelihood_combs5j4tbb1","Reco_highest_TTLikelihood_comb s5j4tbb1",10,-1,1),"Reco_highest_TTLikelihood_comb",s5j4tbb1),
 
 # s5j4tbb2 selection
-    Plot(ROOT.TH1F("N_Jets" ,"Number of jets s5j4tbb2",13,-0.5,12.5),"N_Jets",s5j4tbb2),
+    Plot(ROOT.TH1F("N_Jetss5j4tbb2" ,"Number of jets s5j4tbb2",13,-0.5,12.5),"N_Jets",s5j4tbb2),
     Plot(ROOT.TH1F("N_BTagsMs5j4tbb2" ,"Number of medium b-tags s5j4tbb2",9,-0.5,8.5),"N_BTagsM",s5j4tbb2),
 
     Plot(ROOT.TH1F("N_TotalTagss5j4tbb2" ,"Number of total tags s5j4tbb2",9,-0.5,8.5),"N_TotalTags",s5j4tbb2),
@@ -1152,7 +1152,7 @@ plots=[
     Plot(ROOT.TH1F("Reco_highest_TTLikelihood_combs5j4tbb2","Reco_highest_TTLikelihood_comb s5j4tbb2",10,-1,1),"Reco_highest_TTLikelihood_comb",s5j4tbb2),
 
 # s5j4tbb3 selection
-    Plot(ROOT.TH1F("N_Jets" ,"Number of jets s5j4tbb3",13,-0.5,12.5),"N_Jets",s5j4tbb3),
+    Plot(ROOT.TH1F("N_Jetss5j4tbb3" ,"Number of jets s5j4tbb3",13,-0.5,12.5),"N_Jets",s5j4tbb3),
     Plot(ROOT.TH1F("N_BTagsMs5j4tbb3" ,"Number of medium b-tags s5j4tbb3",9,-0.5,8.5),"N_BTagsM",s5j4tbb3),
 
     Plot(ROOT.TH1F("N_TotalTagss5j4tbb3" ,"Number of total tags s5j4tbb3",9,-0.5,8.5),"N_TotalTags",s5j4tbb3),
@@ -1263,7 +1263,7 @@ plots=[
     Plot(ROOT.TH1F("Reco_highest_TTLikelihood_combs6j2t","Reco_highest_TTLikelihood_comb s6j2t",10,-1,1),"Reco_highest_TTLikelihood_comb",s6j2t),
 
 # s6j2tbb0 selection
-    Plot(ROOT.TH1F("N_Jets" ,"Number of jets s6j2tbb0",13,-0.5,12.5),"N_Jets",s6j2tbb0),
+    Plot(ROOT.TH1F("N_Jetss6j2tbb0" ,"Number of jets s6j2tbb0",13,-0.5,12.5),"N_Jets",s6j2tbb0),
     Plot(ROOT.TH1F("N_BTagsMs6j2tbb0" ,"Number of medium b-tags s6j2tbb0",9,-0.5,8.5),"N_BTagsM",s6j2tbb0),
 
     Plot(ROOT.TH1F("N_TotalTagss6j2tbb0" ,"Number of total tags s6j2tbb0",9,-0.5,8.5),"N_TotalTags",s6j2tbb0),
@@ -1318,7 +1318,7 @@ plots=[
     Plot(ROOT.TH1F("Reco_highest_TTLikelihood_combs6j2tbb0","Reco_highest_TTLikelihood_comb s6j2tbb0",10,-1,1),"Reco_highest_TTLikelihood_comb",s6j2tbb0),
 
 # s6j2tbb1 selection
-    Plot(ROOT.TH1F("N_Jets" ,"Number of jets s6j2tbb1",13,-0.5,12.5),"N_Jets",s6j2tbb1),
+    Plot(ROOT.TH1F("N_Jetss6j2tbb1" ,"Number of jets s6j2tbb1",13,-0.5,12.5),"N_Jets",s6j2tbb1),
     Plot(ROOT.TH1F("N_BTagsMs6j2tbb1" ,"Number of medium b-tags s6j2tbb1",9,-0.5,8.5),"N_BTagsM",s6j2tbb1),
 
     Plot(ROOT.TH1F("N_TotalTagss6j2tbb1" ,"Number of total tags s6j2tbb1",9,-0.5,8.5),"N_TotalTags",s6j2tbb1),
@@ -1373,7 +1373,7 @@ plots=[
     Plot(ROOT.TH1F("Reco_highest_TTLikelihood_combs6j2tbb1","Reco_highest_TTLikelihood_comb s6j2tbb1",10,-1,1),"Reco_highest_TTLikelihood_comb",s6j2tbb1),
 
 # s6j2tbb2 selection
-    Plot(ROOT.TH1F("N_Jets" ,"Number of jets s6j2tbb2",13,-0.5,12.5),"N_Jets",s6j2tbb2),
+    Plot(ROOT.TH1F("N_Jetss6j2tbb2" ,"Number of jets s6j2tbb2",13,-0.5,12.5),"N_Jets",s6j2tbb2),
     Plot(ROOT.TH1F("N_BTagsMs6j2tbb2" ,"Number of medium b-tags s6j2tbb2",9,-0.5,8.5),"N_BTagsM",s6j2tbb2),
 
     Plot(ROOT.TH1F("N_TotalTagss6j2tbb2" ,"Number of total tags s6j2tbb2",9,-0.5,8.5),"N_TotalTags",s6j2tbb2),
@@ -1428,7 +1428,7 @@ plots=[
     Plot(ROOT.TH1F("Reco_highest_TTLikelihood_combs6j2tbb2","Reco_highest_TTLikelihood_comb s6j2tbb2",10,-1,1),"Reco_highest_TTLikelihood_comb",s6j2tbb2),
 
 # s6j2tbb3 selection
-    Plot(ROOT.TH1F("N_Jets" ,"Number of jets s6j2tbb3",13,-0.5,12.5),"N_Jets",s6j2tbb3),
+    Plot(ROOT.TH1F("N_Jetss6j2tbb3" ,"Number of jets s6j2tbb3",13,-0.5,12.5),"N_Jets",s6j2tbb3),
     Plot(ROOT.TH1F("N_BTagsMs6j2tbb3" ,"Number of medium b-tags s6j2tbb3",9,-0.5,8.5),"N_BTagsM",s6j2tbb3),
 
     Plot(ROOT.TH1F("N_TotalTagss6j2tbb3" ,"Number of total tags s6j2tbb3",9,-0.5,8.5),"N_TotalTags",s6j2tbb3),
@@ -1539,7 +1539,7 @@ plots=[
     Plot(ROOT.TH1F("Reco_highest_TTLikelihood_combs6j3t","Reco_highest_TTLikelihood_comb s6j3t",10,-1,1),"Reco_highest_TTLikelihood_comb",s6j3t),
 
 # s6j3tbb0 selection
-    Plot(ROOT.TH1F("N_Jets" ,"Number of jets s6j3tbb0",13,-0.5,12.5),"N_Jets",s6j3tbb0),
+    Plot(ROOT.TH1F("N_Jetss6j3tbb0" ,"Number of jets s6j3tbb0",13,-0.5,12.5),"N_Jets",s6j3tbb0),
     Plot(ROOT.TH1F("N_BTagsMs6j3tbb0" ,"Number of medium b-tags s6j3tbb0",9,-0.5,8.5),"N_BTagsM",s6j3tbb0),
 
     Plot(ROOT.TH1F("N_TotalTagss6j3tbb0" ,"Number of total tags s6j3tbb0",9,-0.5,8.5),"N_TotalTags",s6j3tbb0),
@@ -1594,7 +1594,7 @@ plots=[
     Plot(ROOT.TH1F("Reco_highest_TTLikelihood_combs6j3tbb0","Reco_highest_TTLikelihood_comb s6j3tbb0",10,-1,1),"Reco_highest_TTLikelihood_comb",s6j3tbb0),
 
 # s6j3tbb1 selection
-    Plot(ROOT.TH1F("N_Jets" ,"Number of jets s6j3tbb1",13,-0.5,12.5),"N_Jets",s6j3tbb1),
+    Plot(ROOT.TH1F("N_Jetss6j3tbb1" ,"Number of jets s6j3tbb1",13,-0.5,12.5),"N_Jets",s6j3tbb1),
     Plot(ROOT.TH1F("N_BTagsMs6j3tbb1" ,"Number of medium b-tags s6j3tbb1",9,-0.5,8.5),"N_BTagsM",s6j3tbb1),
 
     Plot(ROOT.TH1F("N_TotalTagss6j3tbb1" ,"Number of total tags s6j3tbb1",9,-0.5,8.5),"N_TotalTags",s6j3tbb1),
@@ -1649,7 +1649,7 @@ plots=[
     Plot(ROOT.TH1F("Reco_highest_TTLikelihood_combs6j3tbb1","Reco_highest_TTLikelihood_comb s6j3tbb1",10,-1,1),"Reco_highest_TTLikelihood_comb",s6j3tbb1),
 
 # s6j3tbb2 selection
-    Plot(ROOT.TH1F("N_Jets" ,"Number of jets s6j3tbb2",13,-0.5,12.5),"N_Jets",s6j3tbb2),
+    Plot(ROOT.TH1F("N_Jetss6j3tbb2" ,"Number of jets s6j3tbb2",13,-0.5,12.5),"N_Jets",s6j3tbb2),
     Plot(ROOT.TH1F("N_BTagsMs6j3tbb2" ,"Number of medium b-tags s6j3tbb2",9,-0.5,8.5),"N_BTagsM",s6j3tbb2),
 
     Plot(ROOT.TH1F("N_TotalTagss6j3tbb2" ,"Number of total tags s6j3tbb2",9,-0.5,8.5),"N_TotalTags",s6j3tbb2),
@@ -1704,7 +1704,7 @@ plots=[
     Plot(ROOT.TH1F("Reco_highest_TTLikelihood_combs6j3tbb2","Reco_highest_TTLikelihood_comb s6j3tbb2",10,-1,1),"Reco_highest_TTLikelihood_comb",s6j3tbb2),
 
 # s6j3tbb3 selection
-    Plot(ROOT.TH1F("N_Jets" ,"Number of jets s6j3tbb3",13,-0.5,12.5),"N_Jets",s6j3tbb3),
+    Plot(ROOT.TH1F("N_Jetss6j3tbb3" ,"Number of jets s6j3tbb3",13,-0.5,12.5),"N_Jets",s6j3tbb3),
     Plot(ROOT.TH1F("N_BTagsMs6j3tbb3" ,"Number of medium b-tags s6j3tbb3",9,-0.5,8.5),"N_BTagsM",s6j3tbb3),
 
     Plot(ROOT.TH1F("N_TotalTagss6j3tbb3" ,"Number of total tags s6j3tbb3",9,-0.5,8.5),"N_TotalTags",s6j3tbb3),
@@ -1815,7 +1815,7 @@ plots=[
     Plot(ROOT.TH1F("Reco_highest_TTLikelihood_combs6j4t","Reco_highest_TTLikelihood_comb s6j4t",10,-1,1),"Reco_highest_TTLikelihood_comb",s6j4t),
 
 # s6j4tbb0 selection
-    Plot(ROOT.TH1F("N_Jets" ,"Number of jets s6j4tbb0",13,-0.5,12.5),"N_Jets",s6j4tbb0),
+    Plot(ROOT.TH1F("N_Jetss6j4tbb0" ,"Number of jets s6j4tbb0",13,-0.5,12.5),"N_Jets",s6j4tbb0),
     Plot(ROOT.TH1F("N_BTagsMs6j4tbb0" ,"Number of medium b-tags s6j4tbb0",9,-0.5,8.5),"N_BTagsM",s6j4tbb0),
 
     Plot(ROOT.TH1F("N_TotalTagss6j4tbb0" ,"Number of total tags s6j4tbb0",9,-0.5,8.5),"N_TotalTags",s6j4tbb0),
@@ -1870,7 +1870,7 @@ plots=[
     Plot(ROOT.TH1F("Reco_highest_TTLikelihood_combs6j4tbb0","Reco_highest_TTLikelihood_comb s6j4tbb0",10,-1,1),"Reco_highest_TTLikelihood_comb",s6j4tbb0),
 
 # s6j4tbb1 selection
-    Plot(ROOT.TH1F("N_Jets" ,"Number of jets s6j4tbb1",13,-0.5,12.5),"N_Jets",s6j4tbb1),
+    Plot(ROOT.TH1F("N_Jetss6j4tbb1" ,"Number of jets s6j4tbb1",13,-0.5,12.5),"N_Jets",s6j4tbb1),
     Plot(ROOT.TH1F("N_BTagsMs6j4tbb1" ,"Number of medium b-tags s6j4tbb1",9,-0.5,8.5),"N_BTagsM",s6j4tbb1),
 
     Plot(ROOT.TH1F("N_TotalTagss6j4tbb1" ,"Number of total tags s6j4tbb1",9,-0.5,8.5),"N_TotalTags",s6j4tbb1),
@@ -1925,7 +1925,7 @@ plots=[
     Plot(ROOT.TH1F("Reco_highest_TTLikelihood_combs6j4tbb1","Reco_highest_TTLikelihood_comb s6j4tbb1",10,-1,1),"Reco_highest_TTLikelihood_comb",s6j4tbb1),
 
 # s6j4tbb2 selection
-    Plot(ROOT.TH1F("N_Jets" ,"Number of jets s6j4tbb2",13,-0.5,12.5),"N_Jets",s6j4tbb2),
+    Plot(ROOT.TH1F("N_Jetss6j4tbb2" ,"Number of jets s6j4tbb2",13,-0.5,12.5),"N_Jets",s6j4tbb2),
     Plot(ROOT.TH1F("N_BTagsMs6j4tbb2" ,"Number of medium b-tags s6j4tbb2",9,-0.5,8.5),"N_BTagsM",s6j4tbb2),
 
     Plot(ROOT.TH1F("N_TotalTagss6j4tbb2" ,"Number of total tags s6j4tbb2",9,-0.5,8.5),"N_TotalTags",s6j4tbb2),
@@ -1980,7 +1980,7 @@ plots=[
     Plot(ROOT.TH1F("Reco_highest_TTLikelihood_combs6j4tbb2","Reco_highest_TTLikelihood_comb s6j4tbb2",10,-1,1),"Reco_highest_TTLikelihood_comb",s6j4tbb2),
 
 # s6j4tbb3 selection
-    Plot(ROOT.TH1F("N_Jets" ,"Number of jets s6j4tbb3",13,-0.5,12.5),"N_Jets",s6j4tbb3),
+    Plot(ROOT.TH1F("N_Jetss6j4tbb3" ,"Number of jets s6j4tbb3",13,-0.5,12.5),"N_Jets",s6j4tbb3),
     Plot(ROOT.TH1F("N_BTagsMs6j4tbb3" ,"Number of medium b-tags s6j4tbb3",9,-0.5,8.5),"N_BTagsM",s6j4tbb3),
 
     Plot(ROOT.TH1F("N_TotalTagss6j4tbb3" ,"Number of total tags s6j4tbb3",9,-0.5,8.5),"N_TotalTags",s6j4tbb3),
